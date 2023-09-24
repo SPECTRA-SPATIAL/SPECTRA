@@ -1,0 +1,11 @@
+{
+  "name": "spectra",
+  "version": "1.0.0",
+  "description": "Spatial trading software - allows you to manage manual trades against automatic trading systems to optimize your profile. Includes native artificial intelligence from trained/trainable LLM's with chatbot (image recognition) interfaces. Public access to news/data about the markets through blockchain and internet access. Fits all devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
