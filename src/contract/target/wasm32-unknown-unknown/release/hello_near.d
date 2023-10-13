@@ -1,0 +1,1 @@
+/Users/elicharlese/Team\ CEC\ Dropbox/Elias\ Estrada/ECE/Professional/Trader/SPECTRA/SPECTRA/src/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/elicharlese/Team\ CEC\ Dropbox/Elias\ Estrada/ECE/Professional/Trader/SPECTRA/SPECTRA/src/contract/src/lib.rs
