@@ -1,6 +1,6 @@
 # SPECTRA: 3D Spatial Trading Software
 
-![SPECTRA Logo](images/spectra-logo.png)
+[SPECTRA](https://spectra.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
 
 ## Overview
 
